@@ -1,0 +1,3 @@
+<?php 
+
+// Introução a Cache
